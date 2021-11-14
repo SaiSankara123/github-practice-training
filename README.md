@@ -1,2 +1,3 @@
 # github-practice-training
-Training for QA testing
+Training for QA testing day2
+
