@@ -1,2 +1,5 @@
 training test2
 added lines online
+
+local conflict changes
+
